@@ -1,0 +1,8 @@
+.banner-image{
+    margin-top: 20px;
+    width: 800px;
+    height: 600px;
+    background: #000;
+    background-image: url(https://www.jetbrains.com/img/banners-home-page/bg_space_desktop.svg);
+    background-size: cover;
+}
